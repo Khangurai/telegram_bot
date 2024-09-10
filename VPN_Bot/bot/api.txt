@@ -1,0 +1,2 @@
+7250327428:AAG-L1s668fO1vp8_dunBfXYDmOvwO-Lywo
+#pip install python-telegram-bot
